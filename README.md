@@ -1,14 +1,25 @@
-### Hi there 👋
+## 关于我 
 
-#### Platform&Tools
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/)
+这里是个人势VUP **天羽ちよこ**，是男孩子！
 
-[![](https://img.shields.io/badge/-Java-4fc08d?style=flat-square&logo=java&logoColor=ffffff)](https://java.com/)
-[![](https://img.shields.io/badge/-Groovy-4fc08d?style=flat-square&logo=groovy&logoColor=ffffff)](http://groovy-lang.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+曾经是[扇宝](https://space.bilibili.com/698438232)的单推人，现在单推[七咔拉](https://space.bilibili.com/484660274)
 
-#### Console&Game
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+
+* 画师妈妈：[朕的鸡块呢](https://space.bilibili.com/3345773)
+* 模型师：[阮卿言Official](https://space.bilibili.com/85391585)
+
+### 直播内容和时间
+
+主要直播内容是**自娱自乐写代码**，偶尔玩玩Steam游戏。
+
+因为是写代码，所以直播内容会很无聊，有空的小伙伴们可以来坐坐。
+
+直播时间是工作日的**每晚20:00左右到22:0**0，**周六日的下午**也会开播。
+
+### 设备和技术栈
+
+主要写**Java后端**，偶尔用vue、react等写前端，groovy、nodejs都会一点点，虽然有学过一整本python的书但已经全忘光了，最近在学习kotlin。
+
+使用**Linux桌面有13年**的时间了，目前工作用电脑是一台安装了**Arch Linux**的 **XPS15-9500**，直播用电脑是组装的配置稍好的台式机。
+
+有一台**Nintendo Switch**，但玩的较少。
