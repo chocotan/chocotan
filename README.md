@@ -2,7 +2,7 @@
 
 这里是自娱自乐个人势VUP **天羽ちよこ**，是男孩子！
 
-曾经是[扇宝](https://space.bilibili.com/698438232) 和 [七咔拉](https://space.bilibili.com/484660274)的单推人，现在单推[艾妮娅Enia](https://space.bilibili.com/589799673)。
+曾经是[扇宝](https://space.bilibili.com/698438232)和[七咔拉](https://space.bilibili.com/484660274)的单推人，现在单推[艾妮娅Enia](https://space.bilibili.com/589799673)。
 
 
 * 直播间：[https://live.bilibili.com/75241](https://live.bilibili.com/75241)
