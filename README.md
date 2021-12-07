@@ -4,7 +4,6 @@
 
 * 直播间：[https://live.bilibili.com/75241](https://live.bilibili.com/75241)
 * 画师妈妈：[朕的鸡块呢](https://space.bilibili.com/3345773)
-* 模型师：[阮卿言Official](https://space.bilibili.com/85391585)
 
 ### 直播内容和时间
 
