@@ -1,7 +1,5 @@
 ## 关于我 
 
-这里是自娱自乐个人势VUP **天羽ちよこ**，是男孩子！
-
 * 直播间：[https://live.bilibili.com/75241](https://live.bilibili.com/75241)
 * 画师妈妈：[朕的鸡块呢](https://space.bilibili.com/3345773)
 
